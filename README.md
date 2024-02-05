@@ -81,6 +81,51 @@ More customers at Mitron Bank are **Married** (78.40% of the total) compared to 
 * Average Monthly Spend, however, fluctuates across the months, with a range from 17K to 29K.
 
 
+**C. Average Monthly Income vs. Spending**
+
+<img width="671" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/6caa009c-ef3f-4f2a-b036-eb1b29399fae">
+
+* We observed that, people aged 45 and above earn the most each month which is 50% more than the youngest age group (21-24). Also we can see there's a consistent link between earning more and spending more. 
+
+* If we talk about the City, then Hyderabad residents have the highest monthly income, slightly more than Bengaluru. Also, the way people spend correlates with their income across different cities.
+
+* Generally, females tend to spend less compared to their income, while males have higher earnings and spending.
+
+* Whereas, Married individuals, on average, earn more and spend more compared to singles. This suggests that marital status plays a role in financial behaviors.
+
+
+**d. Category-wise Expenditure Over Months**
+
+<img width="542" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/29a32f39-bbec-43d5-b8c4-5ea1473755ad">
+
+* Bills consistently lead, reaching 22.90M in September and holding a significant share of total spending.
+
+* Groceries and Electronics show a steady rise, indicating sustained spending patterns.
+
+* Health & Wellness and Travel expenses peak in September, reflecting potential seasonality or specific spending trends.
+
+* Food and Entertainment costs remain stable, contributing consistently to overall spending.
+
+* Overall, total expenditure reaches its peak at 115.93M in September, emphasizing key periods of high spending.
+
+
+## Payment mode Preference analysis
+
+**a. Total Spending across Different Payment Modes**
+
+<img width="326" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/08557902-f472-473b-a823-aa07e7b2d6aa">
+
+In analyzing Payment Mode Preferences, **Credit Card** emerged as the leading choice, with the highest Total Spend at **216.31M**. This was followed by UPI, Debit Card, and Net Banking. Credit Cards represented a substantial **40.74%** share of the Total Spend.
+
+**b. Credit Card Spending Trends Over Time**
+
+
+
+
+
+
+
+
 
 
 
