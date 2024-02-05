@@ -119,12 +119,19 @@ In analyzing Payment Mode Preferences, **Credit Card** emerged as the leading ch
 
 **b. Credit Card Spending Trends Over Time**
 
+<img width="491" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/aea6325a-b8a1-4be1-98f1-edb99926d597">
 
+In terms of Credit Card spending trends, **September** witnessed Credit Card transactions contributing to **21.85%** of the Total Spend.
 
+**c. Credit Card Usage Analysis Across Demographics and Categories**
 
+<img width="635" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/ec3c176b-30aa-49fa-a2af-ff9d1e231805">
 
+* The Age Group **25-34** exhibits the highest Credit Card usage at **46.62%**, surpassing the lowest usage in the 21-24 age group at 33.79%.
 
+* **Chennai** leads among cities with the highest Credit Card usage at **41.48%**, outpacing Bengaluru, which has the lowest usage at 40.20%.
 
+* Among categories, **Travel** tops the list with the highest Credit Card usage at **44.94%**, showing a significant lead over Groceries, the category with the lowest usage at 31.48%.
 
 
 
