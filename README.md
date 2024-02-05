@@ -26,7 +26,7 @@ Imagine yourself as Peter Pandey and perform the following task.
 
 **a. Gender Distribution of Customers**
 
-<img width="288" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/8f220de9-3d74-447e-bc4f-261431baa536">
+<img width="410" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/20f51cb2-775d-4fdb-87cf-498e76779b8e">
 
 In examining the gender distribution among Mitron Bank's customers, we observed that:
 
@@ -38,13 +38,13 @@ This indicates a higher representation of male customers, and understanding thei
 
 **b. Martial Status Overview**
 
-<img width="294" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/0b8364cd-a5ce-4eda-affd-0bbbd30341b1">
+<img width="413" alt="b" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/eb8b4e2a-a376-4314-acc3-96c7da162b4b">
 
 More customers at Mitron Bank are **Married** (78.40% of the total) compared to singles. Understanding the financial habits and needs of married customers is crucial for tailoring credit card options that suit their preferences.
 
 **c. Demographic and Gender Distribution Analysis**
 
-<img width="524" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/39bed1c5-0d4d-4816-9e43-e787c0f17f7a">
+<img width="737" alt="c" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/f8121d21-aaee-44b1-8b09-8402d4fc1f96">
 
 * If we can see the City Breakdown, Mumbai stands out with 17.33% more male customers (2597), giving a clear picture of gender distribution.
 
