@@ -54,7 +54,31 @@ More customers at Mitron Bank are **Married** (78.40% of the total) compared to 
 
 * Also, the relationship between average monthly income and spending varies, with unique trends in the female demographic.
 
+## Spending behavior Analysis
 
+
+**a. Average Monthly Trends Across Occupations**
+
+<img width="763" alt="b" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/d57047de-d093-49cb-87fd-32ab1bcbee02">
+
+* Exploring Average Monthly Trends Across Occupations, Business Owners lead with the highest Average Monthly Income at 70.09K — nearly 100% more than Freelancers, who have the lowest at 35.06K.
+
+* Interestingly, there is a positive correlation between Average Monthly Income and Total Average Monthly Spend.
+
+* Across all five occupations, Average Monthly Income ranged from 35.06K to 70.09K, Average Monthly Spend ranged from 15.09K to 31.39K, and Avg Income Utilization % ranged from 29.00% to 51.04%.
+  
+
+**b. Demographic and Gender Distribution Analysis**
+
+<img width="599" alt="a" src="https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/assets/157209150/8449e927-4af5-4aef-a665-f57d444897a9">
+
+* In examining Income and Spending Trends Over Time, we find that Average Monthly Income is negatively correlated with Total Average Monthly Spend.
+
+* Notably, in May, there was a significant difference between Average Monthly Income and Spend, with Income exceeding Spend by 35K.
+
+* Over the six-month period, Average Monthly Income remains consistent, ranging from 52K to 52K.
+
+* Average Monthly Spend, however, fluctuates across the months, with a range from 17K to 29K.
 
 
 
