@@ -13,7 +13,7 @@ The successful acquisition of this project depends on Peter's ability to provide
 ## Task List:
 Imagine yourself as Peter Pandey and perform the following task.
 
-1. Use “Insight Ideas from Tony.pdf”. Create metrics and visuals accordingly.
+1. Use [**Insight Ideas from Tony.pdf**](https://github.com/ayushi1206agrawal/Mitron_Bank_Credit_Card_Strategy_Dashboard/blob/main/Resources/Insight%20Ideas%20from%20Tony.pdf). Create metrics and visuals accordingly.
 2. Design a dashboard with your metrics and analysis. The end users of this dashboard are top-level management and product strategy team - hence the dashboard should be self-explanatory and easy to understand.
 3. Present your insights to Mr. Bashnir Rover & team. Be creative and concise with your presentation.
 4. Use your dashboard in the presentation along with the deck.
